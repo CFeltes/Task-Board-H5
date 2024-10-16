@@ -50,7 +50,7 @@ Instructions on how to use your application.
 
 Visit my sites here!
 https://CFeltes.github.io/Task-Board-H5/
-https://github.com/CFeltes/Taske-Board-H5
+https://github.com/CFeltes/Task-Board-H5
 
 ![See First Page Screenshot](Screenshot-1.jpg)
 ![See Secord Page Screenshot](Screenshot-2.jpg)
