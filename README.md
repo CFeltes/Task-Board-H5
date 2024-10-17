@@ -1,5 +1,5 @@
 # Task-Board-H5
-Fifth homework assigment
+Fifth homework assignment
 
 
 
@@ -49,12 +49,13 @@ Step-by-step instructions on how to install and set up your project.
 Instructions on how to use your application.
 
 Visit my sites here!
-https://CFeltes.github.io/Task-Board-H5/
-https://github.com/CFeltes/Task-Board-H5
+https://cfeltes.github.io/Task-Board-H5/
+https://github.com/CFeltes/Task-Board-H5.git
+git@github.com:CFeltes/Task-Board-H5.git
 
-![See First Page Screenshot](Screenshot-1.jpg)
-![See Secord Page Screenshot](Screenshot-2.jpg)
-![See Third Page Screenshot](Screenshot-3.jpg)
+![See First Page Screenshot](Screenshot-1-H5.jpg)
+![See Secord Page Screenshot](Screenshot-2-H5.jpg)
+![See Third Page Screenshot](Screenshot-3-H5.jpg)
 
 
 ## Contributing
